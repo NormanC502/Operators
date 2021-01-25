@@ -1,0 +1,15 @@
+C:\Users\Norman Calhoun\repos\OperatorExercise\bin\Debug\net5.0\OperatorExercise.exe
+C:\Users\Norman Calhoun\repos\OperatorExercise\bin\Debug\net5.0\OperatorExercise.deps.json
+C:\Users\Norman Calhoun\repos\OperatorExercise\bin\Debug\net5.0\OperatorExercise.runtimeconfig.json
+C:\Users\Norman Calhoun\repos\OperatorExercise\bin\Debug\net5.0\OperatorExercise.runtimeconfig.dev.json
+C:\Users\Norman Calhoun\repos\OperatorExercise\bin\Debug\net5.0\OperatorExercise.dll
+C:\Users\Norman Calhoun\repos\OperatorExercise\bin\Debug\net5.0\ref\OperatorExercise.dll
+C:\Users\Norman Calhoun\repos\OperatorExercise\bin\Debug\net5.0\OperatorExercise.pdb
+C:\Users\Norman Calhoun\repos\OperatorExercise\obj\Debug\net5.0\OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norman Calhoun\repos\OperatorExercise\obj\Debug\net5.0\OperatorExercise.AssemblyInfoInputs.cache
+C:\Users\Norman Calhoun\repos\OperatorExercise\obj\Debug\net5.0\OperatorExercise.AssemblyInfo.cs
+C:\Users\Norman Calhoun\repos\OperatorExercise\obj\Debug\net5.0\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\Norman Calhoun\repos\OperatorExercise\obj\Debug\net5.0\OperatorExercise.dll
+C:\Users\Norman Calhoun\repos\OperatorExercise\obj\Debug\net5.0\ref\OperatorExercise.dll
+C:\Users\Norman Calhoun\repos\OperatorExercise\obj\Debug\net5.0\OperatorExercise.pdb
+C:\Users\Norman Calhoun\repos\OperatorExercise\obj\Debug\net5.0\OperatorExercise.genruntimeconfig.cache
