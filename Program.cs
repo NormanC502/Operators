@@ -19,7 +19,7 @@ namespace OperatorExercise
             Console.WriteLine(quotient);
             Console.WriteLine($"{a} / {b} is {quotient} remainder {remainder}.");
             
-            Console.WriteLine($"What is the area of your circle?");
+            Console.WriteLine($"What is the radius of your circle?");
             var radius = double.Parse(Console.ReadLine());
             var area = AreaOfCircle(radius);
 

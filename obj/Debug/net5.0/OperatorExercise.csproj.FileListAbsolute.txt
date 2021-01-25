@@ -13,3 +13,4 @@ C:\Users\Norman Calhoun\repos\OperatorExercise\obj\Debug\net5.0\OperatorExercise
 C:\Users\Norman Calhoun\repos\OperatorExercise\obj\Debug\net5.0\ref\OperatorExercise.dll
 C:\Users\Norman Calhoun\repos\OperatorExercise\obj\Debug\net5.0\OperatorExercise.pdb
 C:\Users\Norman Calhoun\repos\OperatorExercise\obj\Debug\net5.0\OperatorExercise.genruntimeconfig.cache
+C:\Users\Norman Calhoun\repos\OperatorExercise\obj\Debug\net5.0\OperatorExercise.csprojAssemblyReference.cache
